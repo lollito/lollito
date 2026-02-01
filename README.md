@@ -47,26 +47,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lollito&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Lollito's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lollito&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lollito&theme=radical" alt="streak stats" />
-</p>
-
----
-
-### 🤝 Connect with me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
 <p align="right">
   <i>"The best way to predict the future is to invent it." - Alan Kay</i> 🚀
 </p>
